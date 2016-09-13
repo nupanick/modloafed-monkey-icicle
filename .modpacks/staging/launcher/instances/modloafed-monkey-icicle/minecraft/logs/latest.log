@@ -1,0 +1,24 @@
+[01:41:34] [Client thread/INFO]: Setting user: Player
+[01:41:40] [Client thread/WARN]: Skipping bad option: lastServer:
+[01:41:40] [Client thread/INFO]: LWJGL Version: 2.9.4
+[01:41:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AutoRegLib, FMLFileResourcePack:Chisels & Bits, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:Morpheus, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Psi, FMLFileResourcePack:Quark, FMLFileResourcePack:Roguelike Dungeons
+[01:41:56] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[01:41:56] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[01:41:56] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[01:41:56] [Thread-9/INFO]: OpenAL initialized.
+[01:41:56] [Sound Library Loader/INFO]: Sound engine started
+[01:42:00] [Client thread/INFO]: Created: 16x16 textures-atlas
+[01:42:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AutoRegLib, FMLFileResourcePack:Chisels & Bits, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:Morpheus, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Psi, FMLFileResourcePack:Quark, FMLFileResourcePack:Roguelike Dungeons
+[01:42:07] [Client thread/INFO]: SoundSystem shutting down...
+[01:42:07] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[01:42:07] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[01:42:07] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[01:42:07] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[01:42:07] [Thread-11/INFO]: OpenAL initialized.
+[01:42:07] [Sound Library Loader/INFO]: Sound engine started
+[01:42:10] [Client thread/INFO]: Created: 1024x1024 textures-atlas
+[01:42:14] [Client thread/WARN]: Skipping bad option: lastServer:
+[01:42:15] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[01:43:09] [Client thread/INFO]: Stopping!
+[01:43:09] [Client thread/INFO]: SoundSystem shutting down...
+[01:43:09] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
