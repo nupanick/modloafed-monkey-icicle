@@ -4,8 +4,8 @@
     {
       "title" : "Modloafed - Monkey Icicle",
       "name" : "modloafed-monkey-icicle",
-      "version" : "1",
-      "location" : "modloafed-monkey-icicle-1.json",
+      "version" : "1.6",
+      "location" : "modloafed-monkey-icicle-1.6.json",
       "priority" : 0
     }
   ]
